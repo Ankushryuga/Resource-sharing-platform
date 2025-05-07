@@ -13,7 +13,7 @@ const SideMenuData: React.FC<Props> = ({ item }) => {
         title={item.label} // 👈 Tooltip for full label on hover
       >
         <div className="text-xl shrink-0 ">{item.icon}</div>
-        <div className="text-sm font-medium truncate overflow-hidden whitespace-nowrap w-full">
+        <div className="text-sm pl-2 font-medium truncate overflow-hidden whitespace-nowrap w-full">
           {item.label}
         </div>
       </div>

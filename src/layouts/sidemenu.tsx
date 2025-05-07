@@ -21,13 +21,11 @@ const SideMenu: React.FC = () => {
       </div>
 
       {/* Scrollable Middle */}
-      <div className="flex-1 overflow-y-auto space-y-1 p-4">
+      <div className="flex-1 overflow-y-auto space-y-1 p-4 hide-scrollbar bg-transparent">
         {middleItems.map((item, idx) => (
           <div
             key={idx}
-            className={
-              item.label === createNewButton ? "bg-white/10 rounded" : ""
-            }
+            className={item.label === createNewButton ? "bg-white/10 rounded" : ""}
           >
             <SideMenuData item={item} />
           </div>
