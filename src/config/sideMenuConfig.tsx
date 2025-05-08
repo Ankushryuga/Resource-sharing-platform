@@ -1,6 +1,6 @@
 // config/sideMenuConfig.tsx
 import type { ReactElement } from "react";
-import { FaDashcube, FaPlus, FaInbox, FaTimes, FaUsers } from "react-icons/fa";
+import { FaDashcube, FaPlus, FaInbox, FaUsers } from "react-icons/fa";
 import { FcBookmark } from "react-icons/fc";
 import { PiNotebookFill } from "react-icons/pi";
 import { GoFileSubmodule } from "react-icons/go";
@@ -22,6 +22,7 @@ const config: MenuItems[] = [
     path: `/${Name.toLowerCase()}`,
     icon: <FaDashcube className="text-2xl" />,
   },
+  //mandatory field.
   {
     label: "Create New",
     path: "/createNewSideMenu",
@@ -29,16 +30,19 @@ const config: MenuItems[] = [
       <FaPlus className="text-purple-800 text-base bg-white p-1 rounded-full border border-purple-800 shadow transition" />
     ),
   },
+  //mandatory field.
   {
     label: "Notifications",
     path: "/notifications",
     icon: <FaInbox className="text-2xl" />,
   },
+  //mandatory field.
   {
     label: "Recents",
     path: "/recents",
     icon: <GiBackwardTime className="text-2xl" />,
   },
+  //mandatory field.
   {
     label: "Favourites",
     path: "/favourites",
@@ -55,6 +59,7 @@ const config: MenuItems[] = [
     label: "My Files",
     path: "/myFiles",
     icon: <GoFileSubmodule className="text-2xl" />,
+    //its optional and will get auto added after create new ...
     children: [
       {
         label: "Course-Name-Value-Field-1",
