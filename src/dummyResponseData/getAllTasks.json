@@ -1,124 +1,103 @@
 {
-    "data":[
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },   
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    },    
-    {"taskId":1,
-    "taskName":"Design the figma template for kanban task board",
-    "description":"This is reference will be using this to build the frontend and all with some styles and animations",
-    "priority":"medium",
-    "createdAt":"2025-05-08:16:35:99PM"
-    }
-]
+    "todo":[
+        {
+            "taskId":2929,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Ankush",
+            "dueDate":"2025-05-12"
+        },
+        {
+            "taskId":2333,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Banti",
+            "dueDate":"2025-05-16"
+        },
+        {
+            "taskId":3222,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Roshan",
+            "dueDate":"2025-05-14"
+        }
+    ],
+    "inprogress":[
+        {
+            "taskId":1,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Ankush",
+            "dueDate":"2025-05-12"
+        },
+        {
+            "taskId":2,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Banti",
+            "dueDate":"2025-05-16"
+        },
+        {
+            "taskId":3,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Roshan",
+            "dueDate":"2025-05-14"
+        }
+    ],
+    "inreview":[
+                {
+            "taskId":59,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Ankush",
+            "dueDate":"2025-05-12"
+        },
+        {
+            "taskId":39,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Banti",
+            "dueDate":"2025-05-16"
+        },
+        {
+            "taskId":31,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Roshan",
+            "dueDate":"2025-05-14"
+        }
+    ],
+    "reopened":[
+        {
+            "taskId":10,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Ankush",
+            "dueDate":"2025-05-12"
+        },
+        {
+            "taskId":21,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Banti",
+            "dueDate":"2025-05-16"
+        },
+        {
+            "taskId":31,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Roshan",
+            "dueDate":"2025-05-14"
+        }
+    ],
+    "closed":[        
+        {
+            "taskId":131,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Ankush",
+            "dueDate":"2025-05-12"
+        },
+        {
+            "taskId":393,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Banti",
+            "dueDate":"2025-05-16"
+        },
+        {
+            "taskId":10,
+            "taskName":"Implement feedback collector",
+            "assignedTo":"Roshan",
+            "dueDate":"2025-05-14"
+        }
+
+    ]
 }
